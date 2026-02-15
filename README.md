@@ -11,16 +11,12 @@ This is the original Photo oF the Plaksha Faculty:
 ![Plaksha_Faculty](https://github.com/user-attachments/assets/be4b6887-aee1-435d-aef8-aac29e7b8d59)
 
 
-
-
-
 This is the template image of Sir Shashi Tharoor:
 
 ![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/27f0802b-ff77-4fa1-8691-2f00b00f74d6)
 
 
-
-
+<br>
 
 
 
@@ -46,13 +42,13 @@ First, I loaded a template image of Sir Shashi Tharoor, I extracted Hue and Satu
 
 <img width="2020" height="1096" alt="image" src="https://github.com/user-attachments/assets/52ffed62-7fd6-44d6-a95d-42ae99473bbf" />
 
-
+<br>
 
 Here is a clearer intuitive plot:
 
 <img width="2016" height="1096" alt="image" src="https://github.com/user-attachments/assets/90dc697d-89a7-43da-aaf0-3a8176eb99c7" />
 
-
+<br>
 
 KEY FINDINGS: 
 
