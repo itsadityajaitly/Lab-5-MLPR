@@ -7,10 +7,16 @@ The aim of this project was to detect faces in an image of the plaksha faculty a
 
 
 This is the original Photo oF the Plaksha Faculty:
+
 ![Plaksha_Faculty](https://github.com/user-attachments/assets/be4b6887-aee1-435d-aef8-aac29e7b8d59)
 
+
+
 This is the template image of Sir Shashi Tharoor:
+
 ![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/27f0802b-ff77-4fa1-8691-2f00b00f74d6)
+
+
 
 
 
@@ -32,9 +38,13 @@ For clustering I applied K-Means clustering (k=2) and used Euclidean distance (d
 
 4. Template Classification
 First, I loaded a template image of Sir Shashi Tharoor, I extracted Hue and Saturation features for the same and predicted where his data will place with respec to the set clusters using kmeans.predict(). I then visualised the template placement in the made feature space as seen below:
+
 <img width="2020" height="1096" alt="image" src="https://github.com/user-attachments/assets/52ffed62-7fd6-44d6-a95d-42ae99473bbf" />
 
+
+
 Here is a clearer intuitive plot:
+
 <img width="2016" height="1096" alt="image" src="https://github.com/user-attachments/assets/90dc697d-89a7-43da-aaf0-3a8176eb99c7" />
 
 
