@@ -10,6 +10,7 @@ This is the original Photo oF the Plaksha Faculty:
 
 ![Plaksha_Faculty](https://github.com/user-attachments/assets/be4b6887-aee1-435d-aef8-aac29e7b8d59)
 
+<br><br>
 
 This is the template image of Sir Shashi Tharoor:
 
