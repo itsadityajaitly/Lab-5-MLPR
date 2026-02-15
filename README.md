@@ -12,9 +12,14 @@ This is the original Photo oF the Plaksha Faculty:
 
 
 
+
+
 This is the template image of Sir Shashi Tharoor:
 
 ![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/27f0802b-ff77-4fa1-8691-2f00b00f74d6)
+
+
+
 
 
 
