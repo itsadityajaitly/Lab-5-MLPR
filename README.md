@@ -3,7 +3,7 @@
 
 AIM:
 
-The aim of this project was to detect faces in an image of the plaksha faculty and compare the face features of Shashi tharoor with the faulty's by extracting color based features (Hue and Saturation), clustering the detected faces using K-Means, and classifying Shashis Sirs face based on the learned clusters.
+The aim of this project was to detect faces in an image of the plaksha faculty and compare the face features of Shashi Tharoor with the faculty's by extracting color based features (Hue and Saturation), clustering the detected faces using K-Means, and classifying Shashi Sir's face based on the learned clusters.
 
 
 This is the original photo of the Plaksha Faculty:
@@ -39,7 +39,7 @@ For clustering I applied K-Means clustering (k=2) and used Euclidean distance (d
 
 
 4. Template Classification
-First, I loaded a template image of Sir Shashi Tharoor, I extracted Hue and Saturation features for the same and predicted where his data will place with respec to the set clusters using kmeans.predict(). I then visualised the template placement in the made feature space as seen below:
+First, I loaded a template image of Sir Shashi Tharoor, I extracted Hue and Saturation features for the same and predicted where his data will place with respect to the set clusters using kmeans.predict(). I then visualised the template placement in the made feature space as seen below:
 
 <img width="2020" height="1096" alt="image" src="https://github.com/user-attachments/assets/52ffed62-7fd6-44d6-a95d-42ae99473bbf" />
 
@@ -63,7 +63,7 @@ KEY FINDINGS:
 
 LIMITATIONS:
 
-* Haar Cascade may fail for tilted or poorly lit faces (I might do image segmentation and processing like using imbinarize (adaptive) etcetra to refine the image to counter that).
+* Haar Cascade may fail for tilted or poorly lit faces (I might do image segmentation and processing like using imbinarize (adaptive) etcetera to refine the image to counter that).
 * Using only Hue and Saturation ignores texture and structural facial features.
 * K-Means assumes spherical clusters and equal variance which in real world applications like this one, is very rare to have while using color spaces. If clusters are irregular, overlapping, or unevenly spread, centroid based classification may lead to incorrect assignments leading to lower accuracy of results.
 * Euclidean distance may not perform well in higher dimensions if we choose to convert to other colour spaces and use more features.
