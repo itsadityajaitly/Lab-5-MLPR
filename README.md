@@ -58,7 +58,7 @@ KEY FINDINGS:
 * The Template classification works by assigning the template to the nearest cluster centroid using kmeans.predict.
 * The feature scaling and distance metric choice directly impacts the clustering quality.
 
-
+<br><br>
 
 LIMITATIONS:
 
@@ -69,6 +69,7 @@ LIMITATIONS:
 * As the feature space is based on colour and not geometry of the faces, texture or such deeper features, the clusters reflect color similarity, not actual facial identity.
 * The clustering also gets affected by characteristics like irregular illumination, shadows of the original image, hence the image processing needs to be taken care of before performing computer vision tasks for precise and accurate results.
   
+<br><br>
 
 CONCLUSION:
 
