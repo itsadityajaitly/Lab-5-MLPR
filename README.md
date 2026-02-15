@@ -74,4 +74,4 @@ LIMITATIONS:
 
 CONCLUSION:
 
-This project demonstrates a complete pipeline from basic image preprocessing to clustering and classification using distance based learning. It highlights the importance of choosing the right vector space, with efficient independent features, using distance metrics, and unsupervised learning in simple computer vision tasks. While this proved to be effective for this project, a more robust system would use deeper features and methodologies for improved accuracy which i will be doing as part of my future goals and learnings.
+This project demonstrates a complete set of fundamental skills required for computer vision tasks, ranging from basic image preprocessing to clustering and classification using distance-based learning. It highlights the importance of choosing the right feature vector space, with efficient independent features, using distance metrics, and unsupervised learning in simple computer vision tasks. While this proved to be effective for this project, a more robust system would use deeper features and methodologies for improved accuracy which i will be doing as part of my future goals and learnings.
