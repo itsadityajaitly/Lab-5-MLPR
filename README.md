@@ -6,7 +6,7 @@ AIM:
 The aim of this project was to detect faces in an image of the plaksha faculty and compare the face features of Shashi tharoor with the faulty's by extracting color based features (Hue and Saturation), clustering the detected faces using K-Means, and classifying Shashis Sirs face based on the learned clusters.
 
 
-This is the original Photo oF the Plaksha Faculty:
+This is the original photo of the Plaksha Faculty:
 
 ![Plaksha_Faculty](https://github.com/user-attachments/assets/be4b6887-aee1-435d-aef8-aac29e7b8d59)
 
